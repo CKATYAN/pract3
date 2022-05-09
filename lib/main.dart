@@ -13,7 +13,7 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyApp extends State<MyApp> {
-  MaterialColor primarySwatch = Colors.purple;
+  MaterialColor primarySwatch = Colors.teal;
 
   final inputEController = TextEditingController();
   final outputEController = TextEditingController();
